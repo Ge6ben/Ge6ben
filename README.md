@@ -31,6 +31,7 @@
 - Dexie
 - reCAPTCHA  | Google's OAuth APIs
 - Css | Sass | Html | VanillaJS
+- Stripe
 
 ### Backend Development
 - Firebase 
@@ -43,8 +44,8 @@
 - Sequelize
 - PostgreSQL
 - Deno
-- supabase sdk
-- stripe
+- supabase 
+
 
 
 ### DevOps & Version Control
