@@ -63,6 +63,7 @@
 ### Design
 - Figma
 - Adobe xd
+- Visily
 
 ### Team management
 - Jira
