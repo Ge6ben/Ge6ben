@@ -25,7 +25,7 @@
 - Plasmo - chrome extensions
 - fs | path | fs-extra
 - i18n - localization
-- google map api | openStreetMap | what3words | ArcMap & GIS
+- google map api | openStreetMap | what3words 
 - Barcode | QrCode | dynamsoft
 - vueDraggable | snakecase-keys 
 - Dexie
@@ -46,6 +46,11 @@
 - Deno
 - supabase 
 
+### Others
+- PowerShell
+- WebRTC
+- ArcMap & GIS
+- PowerBI
 
 
 ### DevOps & Version Control
